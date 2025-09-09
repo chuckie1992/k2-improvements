@@ -56,7 +56,7 @@ You are still welcome to hand pick which features you want to install.
 
 ## Donations
 
-Donations are definitely _not required_, they are appreciated.  If you'd like to donate you can do so [here](https://ko-fi.com/jamincollins).
+Donations are definitely _not required_, they are appreciated.  If you'd like to donate to Jamin you can do so [here](https://ko-fi.com/jamincollins).
 
 ## Features
 
