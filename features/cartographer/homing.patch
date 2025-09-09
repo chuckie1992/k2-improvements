@@ -4,7 +4,7 @@
          if toolhead is None:
              toolhead = printer.lookup_object('toolhead')
  
--        self.prtouch_v3 = printer.lookup_object('prtouch_v3')
+-        self.prtouch_v3 = self.printer.lookup_object('prtouch_v3') if self.printer.objects.get('prtouch_v3') else None
 +        self.prtouch_v3 = printer.lookup_object('scanner')
          self.prtouch_v3.z_full_movement_flag = False
          self.toolhead = toolhead
