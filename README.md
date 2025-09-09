@@ -2,7 +2,7 @@
 
 ## DISCLAIMER
 
-This Version of K2 Improvements is only Compatible with Creality K2 Plus with Cartographer probe that has Firmware version 1.1.4.3(beta)!!!!!!!!!
+This Version of K2 Improvements is only Compatible with Creality K2 Plus with Cartographer probe that have Firmware version 1.1.4.3(beta)!!!!!!!!!
 
 Use at your own risk, I'm not responsible for fires or broken dreams.  But you do get to keep both halves if something breaks.
 
