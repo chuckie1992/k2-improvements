@@ -6,6 +6,8 @@ This Version of K2 Improvements is only Compatible with Creality K2 Plus with Ca
 
 Use at your own risk, I'm not responsible for fires or broken dreams.  But you do get to keep both halves if something breaks.
 
+All credits to JaminCollins, he has done major work to improve the K2 series printers for the community.
+
 ## Warning
 
 As a _heads up_ these improvements are not compatible with Creality's _auto-calibration_.  In our experience we get better results through manual tuning.
